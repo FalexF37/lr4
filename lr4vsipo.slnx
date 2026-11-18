@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path="NumberProcessor.cs" />
+  </Folder>
+  <Project Path="../Tests_lr4vispo/Tests_lr4vispo.csproj" />
+  <Project Path="lr4vsipo.csproj" />
+</Solution>
